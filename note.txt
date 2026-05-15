@@ -1,0 +1,9 @@
+JSON = JavaScriptObjectNotation
+
+// send with Object = { }
+{
+1. property
+2. value
+
+
+}
